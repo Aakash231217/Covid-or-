@@ -1,2 +1,2 @@
-# Covid-or-
+# Covid+or-
 Hackathon Project
